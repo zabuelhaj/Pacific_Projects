@@ -38,3 +38,9 @@ Unrelated to tracking is [fastSLAM.py](https://github.com/zabuelhaj/Pacific_Proj
 [Final_Competition](https://github.com/zabuelhaj/Pacific_Projects/tree/master/Autonomous_Robotics/Graduate_Projects/Final_Competition) contains the source code I wrote and contributed to for the final project, which was a tournament of Capture-the-Flag. The class was divided into four teams, each one having four robots. The goal was for each group to develop a Multi-Agent system to complete a game of capture the flag. My team had two offensive robots and two defensive robots. Our approach was a decentralized system, allowing each robot to work independently and communicate as-needed. I wrote the code for [commModule.py](https://github.com/zabuelhaj/Pacific_Projects/blob/master/Autonomous_Robotics/Graduate_Projects/Final_Competition/commModule.py) and [grabControl.py](https://github.com/zabuelhaj/Pacific_Projects/blob/master/Autonomous_Robotics/Graduate_Projects/Final_Competition/grabControl.py); these were modules to utilize a Multi-Agent communication system and to control grippers on the offensive robots, respectively. I additionally contributed to [mainOffensive.py](https://github.com/zabuelhaj/Pacific_Projects/blob/master/Autonomous_Robotics/Graduate_Projects/Final_Competition/mainOffense.py), which used my aforementioned code and contained the logic to search for the opposing team's flag.  
 
 After I completed both robotics courses, I went on to do academic research for autonomous robotics using UAVs. You can read a bit about the research [here](https://github.com/zabuelhaj/Academic_Research).  
+
+### High-Performance Computing ###  
+I will soon be updating my GitHub with OpenMP, MPI, and CUDA projects I completed at University of the Pacific.  
+
+### Machine Learning ###  
+I will soon be updating my GitHub with various Machine Learning projects, such as NNs, CNNs, Reinforcement Learning, and more.  
