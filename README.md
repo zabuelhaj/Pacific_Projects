@@ -44,3 +44,6 @@ I will soon be updating my GitHub with OpenMP, MPI, and CUDA projects I complete
 
 ### Machine Learning ###  
 I will soon be updating my GitHub with various Machine Learning projects, such as NNs, CNNs, Reinforcement Learning, and more.  
+
+### RAMA - The Robotic Arm Medical Assistant ###  
+I will soon be updating my GitHub with my Senior Capstone Project code. Here's a link to a video Pacific shared of my team's work: [Click_Here](https://www.instagram.com/p/BiAo9EGleas/?igshid=pxp0r4pb9vht).  
