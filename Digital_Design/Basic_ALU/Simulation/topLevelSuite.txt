@@ -1,0 +1,90 @@
+No luck.
+No luck.
+No luck.
+No luck.
+No luck.
+No luck.
+No luck.
+No luck.
+No luck.
+Equal:  4 = 20,  0 when A_sign: 1 B_sign: 0
+No luck.
+No luck.
+No luck.
+Equals Zero: 22 = 0,  0 when A_sign: 1
+No luck.
+Less: 29 < 10,  0 when A_sign: 1 B_sign: 0
+Equals Zero: 15 = 0,  0 when A_sign: 0
+Greater: 15 > 19,  0 when A_sign: 0 B_sign: 0
+No luck.
+No luck.
+Equals Zero: 12 = 0,  0 when A_sign: 0
+No luck.
+No luck.
+No luck.
+No luck.
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+Equals Zero: 12 = 0,  0 when A_sign: 0
+Equals Zero: 12 = 0,  0 when A_sign: 0
+No luck.
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+No luck.
+Equals Zero: 12 = 0,  0 when A_sign: 0
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+No luck.
+Equals Zero: 12 = 0,  0 when A_sign: 0
+No luck.
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+Equals Zero: 12 = 0,  0 when A_sign: 0
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+No luck.
+No luck.
+No luck.
+Equals Zero: 12 = 0,  0 when A_sign: 0
+No luck.
+No luck.
+Equals Zero: 12 = 0,  0 when A_sign: 0
+Equals Zero: 12 = 0,  0 when A_sign: 0
+No luck.
+Equals Zero: 12 = 0,  0 when A_sign: 0
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+Equals Zero: 12 = 0,  0 when A_sign: 0
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+No luck.
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+No luck.
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+Equals Zero: 12 = 0,  0 when A_sign: 0
+No luck.
+No luck.
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+Equal: 12 =  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+No luck.
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
+Less: 12 <  7,  0 when A_sign: 0 B_sign: 0
