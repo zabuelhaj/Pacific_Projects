@@ -16,7 +16,6 @@ module Add_Sub_Top(input logic clk,
 
 logic press;
 logic press_edge;
-logic [5:0] A_D;
 logic OF_S;
 logic OF_D;
 logic [5:0] sum;
@@ -33,14 +32,10 @@ logic [3:0] display_Answer1;
 logic [3:0] display_Answer2;
 logic [6:0] answer1;
 logic [6:0] answer2;
-//logic sign_a;
-//logic sign_b;
 logic sign_c;
 logic OF_sig;
 
 sync syncronizer1(.clk(clk),.button(button),.in_sync1(press),.fall_edge(press_edge));
-
-Add_Sub_FSM fsm(.clk(clk),.Add_Sub(Add_Sub),.A_D(A_D));
 
 ADD adder(.inA(A),.inB(B),.OF_S(OF_S),.sum(sum));
 SUB subtr(.inA(A),.inB(B),.OF_D(OF_D),.diff(diff));
@@ -54,9 +49,6 @@ always_ff@(posedge clk) begin
 		OF_sig<=OF_D;
 	end
 end
-
-//MUX addSub(.control(A_D),.sum(sum),.diff(diff),.outVal(sum_diff));
-//MUX ofMux(.control(A_D),.sum(OF_S),.diff(OF_D),.outVal(OF_LED));
 
 sign_mag Asign(.value(A),.mag(A_mag),.sign(A_LED));
 sign_mag Bsign(.value(B),.mag(B_mag),.sign(B_LED));

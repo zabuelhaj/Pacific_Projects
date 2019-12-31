@@ -30,29 +30,9 @@ always_comb begin
 				nextstate<=IDLE;
 			end
 		Write_Mode:
-			/*if(button==1'b0&&mode==1'b1&&fifo_full==1'b0)begin
-				nextstate<=Write_Mode;
-			end else if(button==1'b0&&mode==1'b1&&fifo_full==1'b1)begin
-				nextstate<=IDLE;
-			end else if(button==1'b0&&mode==1'b0&&fifo_full==1'b1)begin
-				nextstate<=IDLE;
-			end else if(button==1'b0&&mode==1'b1&&fifo_full==1'b0)begin
-				nextstate<=Write_Mode;
-			end else begin*/
-				nextstate<=IDLE;
-			//end
+			nextstate<=IDLE;
 		Read_Mode:
-	/*		if(button==1'b0&&mode==1'b0&&fifo_full==1'bx)begin
-				nextstate<=Read_Mode;
-			end else if(button==1'b0&&mode==1'b1&&fifo_full==1'b0)begin
-				nextstate<=Write_Mode;
-			end else if(button==1'b0&&mode==1'b0&&fifo_full==1'bx)begin
-				nextstate<=Read_Mode;
-			end else if(button==1'b0&&mode==1'b1&&fifo_full==1'b1)begin
-				nextstate<=IDLE;
-			end else begin*/
-				nextstate<=IDLE;
-			//end
+			nextstate<=IDLE;
 		default: nextstate<=IDLE;
 	endcase
 end

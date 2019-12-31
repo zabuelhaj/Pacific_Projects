@@ -10,10 +10,6 @@ always_ff @(posedge clk or negedge reset) begin
 		state<=nextstate;
 end
 
-/*always_ff @(posedge clk) begin
-	state<=nextstate;
-end*/
-
 always_comb begin
 	case(state)
 		IDLE:

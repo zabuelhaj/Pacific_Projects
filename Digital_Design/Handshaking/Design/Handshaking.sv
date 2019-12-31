@@ -16,11 +16,9 @@ sync syncronizer3(.clk(outclk),.button(devB),.in_sync(in_devB),.rise_edge(edge_d
 deviceA deviceA(.clk(outclk),.send(~in_send),.reset(in_reset),.devB(in_devB),.devA(devA));
 
 always_comb begin
-
-LED_send<=~in_send;
-LED_devB<=in_devB;
-LED_devA<=devA;
-
+	LED_send<=~in_send;
+	LED_devB<=in_devB;
+	LED_devA<=devA;
 end
 
 endmodule 
