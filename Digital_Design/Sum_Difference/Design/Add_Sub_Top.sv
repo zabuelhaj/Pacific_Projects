@@ -65,8 +65,8 @@ hex_display Bdisplay1(.magnitude(display_B1),.segment(hex_B1));
 hex_display Bdisplay2(.magnitude(display_B2),.segment(hex_B2));
 
 
-//hex_display finaldisplay1(.magnitude(display_Answer1),.segment(answer1));
-//hex_display finaldisplay2(.magnitude(display_Answer2),.segment(answer2));
+hex_display finaldisplay1(.magnitude(display_Answer1),.segment(answer1));
+hex_display finaldisplay2(.magnitude(display_Answer2),.segment(answer2));
 
 hex_display finaldisplay1(.magnitude(display_Answer1),.segment(answer1));
 hex_display finaldisplay2(.magnitude(display_Answer2),.segment(answer2));
