@@ -6,7 +6,7 @@ always_ff@(posedge clk or negedge reset) begin
 	if(!reset)
 		begin
 			intreset<=1'b0;
-			resetsync<=1'b0;
+			resetsync<=intreset;
 		end
 	else
 		begin
